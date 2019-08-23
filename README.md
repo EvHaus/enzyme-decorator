@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/EvHaus/enzyme-decorator.svg)](https://greenkeeper.io/)
+
 To reproduce the bug run:
 
 ```
